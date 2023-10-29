@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nourelquran/static/css/main.9ffac46d.css",
+    "main.js": "/nourelquran/static/js/main.4d7c5010.js",
+    "index.html": "/nourelquran/index.html",
+    "main.9ffac46d.css.map": "/nourelquran/static/css/main.9ffac46d.css.map",
+    "main.4d7c5010.js.map": "/nourelquran/static/js/main.4d7c5010.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ffac46d.css",
+    "static/js/main.4d7c5010.js"
+  ]
+}
